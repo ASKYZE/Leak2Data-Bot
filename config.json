@@ -1,0 +1,23 @@
+{
+  "token": process.env.TOKEN,
+  "owners": [
+    "567202940683681830",
+    "1430768124054995085"
+  ],
+  "prefix": "+",
+  "color": "#ff42de",
+
+  "titre": "Support",
+  "description": "Pour contacter le staff, veuillez sélectionner une raison",
+  "tfooter": "Support",
+  "option1": "Problème bot",
+  "option2": "Suggestion",
+  "option3": "Achat",
+  "option4": "Autre",
+
+  "ctitre": "🚧 Captcha",
+  "cdescription": "Clique sur le bouton ci-dessous pour te vérifier",
+  "ccolor": "#6495ED",
+  "cimage": "https://s4.anilist.co/file/anilistcdn/user/banner/b6882459-PAnDeNP93aAW.jpg",
+  "cemoji": "<Gbutterfly1:1247866358645919745>"
+}
